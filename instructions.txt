@@ -1,3 +1,3 @@
-Instructions for deploying this website.
+Instructions for deploying this website and to access create an account.
 ----------------------------------------
 Copy link from Github, paste in URL, click icon on middle of page, and follow steps to sets up a nerw account!
